@@ -1,1 +1,1 @@
-# final
+# Projenin Tüm Hali
